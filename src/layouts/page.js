@@ -17,7 +17,7 @@ export default class Page extends React.Component {
 
         return (
             <Layout page={page} config={config}>
-                <div className="inner outer">lkdjvlekwj
+                <div className="inner outer">lkdjvlekwjddd
                     <article className="post post-full">
                         <header className="post-header inner-sm">
                             <h1 className="post-title line-top">{title}</h1>
